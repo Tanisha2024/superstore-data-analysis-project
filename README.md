@@ -1,9 +1,10 @@
-Here is a clean, structured, and professional GitHub README.md template for your Superstore Sales Analytics project. It highlights your full tech stack (Python, SQL, and Power BI) and presents the project in a way that looks great to recruiters or open-source contributors.
+Superstore Sales Performance Dashboard
+
+Superstore Sales Analytics project. It highlights your full tech stack (Python, SQL, and Power BI) and presents the project in a way that looks great to recruiters or open-source contributors.
 
 Superstore Sales Performance Dashboard
 An end-to-end data analytics project that transforms raw retail data into actionable business insights. This project leverages Python for data cleaning, SQL for data modeling and querying, and Power BI for interactive dashboard design to analyze sales, profit margins, and customer segments.
 
-(Note: Ensure this filename matches the image path in your repository)
 
 📌 Project Overview
 This project analyzes a comprehensive Superstore dataset to uncover deep insights into sales trends, profitability, customer behavior, and regional performance. The goal is to identify key drivers of business growth, spot operational inefficiencies (such as high-discount/low-profit segments), and provide data-driven recommendations for stakeholders.
